@@ -5,6 +5,7 @@ Transform your PDF documents into concise summaries with this advanced AI-Powere
 
 
 📋 Features
+
 🔍 PDF Loading and Chunking:
 Efficiently load and split large PDF documents into manageable chunks for processing.
 
